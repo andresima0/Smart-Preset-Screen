@@ -2,6 +2,8 @@
 
 SmartPresetScreen is an interactive Arduino-based controller that allows users to manage and adjust multiple preset configurations with real-time visual feedback through an OLED display, PWM outputs, and an RGB LED indicator. The project is designed to provide easy control of three separate counters across six preset configurations, enabling rapid customization and persistent storage.
 
+https://github.com/user-attachments/assets/1c58f296-61d3-4c8d-9178-f073c27e793e
+
 ## Features
 
 - **OLED Display Interface**: Displays the current preset, counter values, and graphical bar representation for each counter.
@@ -95,6 +97,8 @@ SmartPresetScreen is an interactive Arduino-based controller that allows users t
 #Portuguese Verision:
 
 SmartPresetScreen é um controlador interativo baseado em Arduino que permite aos usuários gerenciar e ajustar múltiplas configurações de presets com feedback visual em tempo real, através de um display OLED, saídas PWM e um indicador LED RGB. O projeto foi projetado para fornecer um controle fácil de três contadores independentes em seis configurações de presets, permitindo personalização rápida e armazenamento persistente.
+
+https://github.com/user-attachments/assets/1c58f296-61d3-4c8d-9178-f073c27e793e
 
 ## Funcionalidades
 
